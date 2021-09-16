@@ -6,8 +6,12 @@ A new Flutter application.
 
 This project is a starting point for a Flutter application.
 used until now :
-firebase Auth
-google sign in 
-faceBook Sign in 
-bloc 
-streamBuilder
+1-firebase Auth
+
+2-google sign in 
+
+3-faceBook Sign in 
+
+4-bloc 
+
+5-streamBuilder
